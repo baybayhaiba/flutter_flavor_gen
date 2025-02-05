@@ -1,4 +1,4 @@
-# flutter_flavor_gen
+# flutter_flavor_gen 2
 
 A new Flutter project.
 
